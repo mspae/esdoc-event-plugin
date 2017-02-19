@@ -1,0 +1,10 @@
+{
+  "source": "./test",
+  "destination": "./test-doc",
+  "title": "@event test documentation",
+  "builtinExternal": false,
+  "plugins": [{
+   "name": "./index.js"
+  }],
+  "lint": true
+}

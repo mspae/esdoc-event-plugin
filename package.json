@@ -1,5 +1,5 @@
 {
-  "name": "esdoc-plugin-event",
+  "name": "esdoc-event-plugin",
   "version": "1.0.0",
   "description": "Support for the @event tag in ESDoc",
   "main": "index.js",
@@ -19,9 +19,9 @@
   "author": "Martin Spencer <mail@martinspencer.de>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mspae/esdoc-plugin-event/issues"
+    "url": "https://github.com/mspae/esdoc-event-plugin/issues"
   },
-  "homepage": "https://github.com/mspae/esdoc-plugin-event#readme",
+  "homepage": "https://github.com/mspae/esdoc-event-plugin#readme",
   "devDependencies": {
     "babel-cli": "^6.23.0",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.23.0",
